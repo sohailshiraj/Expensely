@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Expensly</string>
+
+    <string name="back_btn_content_pg">Back button</string>
+    <string name="logout">Logout</string>
+
+    <string name="profile_page_title">My Profile</string>
+
+    <!-- General -->
+    <string name="currency_name">CAD</string>
+    <string name="form_values_required">Please fill all fields</string>
+    <string name="password_not_matched">Password not matched</string>
+    <string name="signup_failed">Registration failed, Something went wrong.</string>
+    <string name="signup_success">Registration Successful</string>
+    <string name="login_failed">Please enter valid credentials to login</string>
+    <string name="login_success">Login Successful</string>
+    <string name="expense_add_success">Expense added successfully</string>
+    <string name="expense_add_failed">Something went wrong! Unable to add expense.</string>
+    <string name="income_add_success">Income added successfully</string>
+    <string name="income_add_failed">Something went wrong! Unable to add income.</string>
+    <string name="transfer_add_success">Transfer added successfully</string>
+    <string name="transfer_add_failed">Something went wrong! Unable to add transfer.</string>
+
+    <!-- WELCOME PAGE -->
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_desc">Automatic identity verification which enable you to verify your identity</string>
+    <string name="login_btn_lbl">Login</string>
+    <string name="signup_btn_lbl">Sign up</string>
+    <string name="welcome_pg_image_content_desc">Welcome page image content description</string>
+
+    <!-- LOGIN PAGE -->
+    <string name="login_lbl">Login</string>
+    <string name="login_desc">Login to your account</string>
+    <string name="email_lbl">Email</string>
+    <string name="name_lbl">Name</string>
+    <string name="password_lbl">Password</string>
+    <string name="do_not_have_account">Do not have an account?</string>
+    <string name="signup_lbl">Sign up</string>
+    <string name="login_pg_content_desc">Login Page content description</string>
+
+    <!-- SIGNUP PAGE -->
+    <string name="signup_desc">Create an account, it\'s free</string>
+    <string name="confirm_password_lbl">Confirm password</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <!-- HOME PAGE -->
+    <string name="home_page_title">Home Page</string>
+    <string name="what_you_have">What You Have</string>
+    <string name="total_expense">Your Monthly Expenses</string>
+    <string name="total_income">Your Monthly Income</string>
+    <string name="all_accounts">All</string>
+    <string name="saving">Savings</string>
+    <string name="chequing">Chequing</string>
+    <string name="cash">Cash</string>
+    <string name="tfsa">TFSA</string>
+    <string name="your_monthly_expense">Your Monthly Expense</string>
+    <string name="your_monthly_income">Your Monthly Income</string>
+    <string name="grocery">Grocery</string>
+    <string name="food_and_drink">Food &amp; Drink</string>
+    <string name="home">Home</string>
+    <string name="utility">Utilities</string>
+    <string name="transport">Transport</string>
+    <string name="others">Others</string>
+
+    <string name="salary">Salary</string>
+    <string name="commission">Commission</string>
+    <string name="bonus">Bonus</string>
+    <string name="freelance">Freelance</string>
+    <string name="other_income">Other Income</string>
+
+    <string name="doing_great">You are doing great! Keep it up</string>
+    <string name="doing_not_great">You need to save more! We know you can</string>
+
+    <!-- ADD TRANSACTION PAGE -->
+    <string name="add_transaction_title">Add Transaction</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="transfer">Transfer</string>
+    <string name="amount">Amount</string>
+    <string name="account">Account</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="from_account">From Account</string>
+    <string name="to_account">To Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--TRANSACTION PAGE -->
+    <string name="transaction_page_title">Transactions</string>
+    <string name="select_month">Select Month</string>
+    <string name="select_year">Select Year</string>
+
+    <!-- INSIGHT PAGE -->
+    <string name="insight_page_title">Insights</string>
+</resources>
